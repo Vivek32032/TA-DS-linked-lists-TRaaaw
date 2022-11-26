@@ -24,7 +24,7 @@ step-4: Now we will repeat the step 1, 2 and 3 but we will keep in mind not to t
 
 ```js
 function bubbleSort() {
-  // your code
+  // your code for bubbleSort
 }
 ```
 
