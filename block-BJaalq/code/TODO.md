@@ -12,6 +12,7 @@ Using the linked list class you created in the previous exercise implement stack
 ```js
 class Stack {
   // your code goes here
+  //
 }
 
 // Test 1
