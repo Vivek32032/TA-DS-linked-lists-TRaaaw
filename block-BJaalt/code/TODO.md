@@ -3,7 +3,7 @@
 For the given problems below write a function to solve the problem and write two test/example testing your solution.
 
 1. Write Algorithms to Check if Two String are Anagram. An anagram is something where length and character matches but not the order like `listen` and `silent`, both have the same number of characters.
-
+  //your code goes here
 2. Given two non-empty array of numbers, write a function to find whether the second array is a subsequence of the first array or not.
 
 A subsequence is a sequence that can be derived from an array by deleting some or no elements without changing the order of the remaining elements. For example, [3,6,2,7] is a subsequence of the array [0,3,1,6,2,2,7].
